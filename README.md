@@ -1,1 +1,1 @@
-This folder contains, interactive Power BI dashboards and reports for data analysis that i have created.
+This repository contains, interactive Power BI dashboards and reports for data analysis that i have created.
