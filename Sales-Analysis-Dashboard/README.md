@@ -8,7 +8,7 @@ It helps to identify top-performing regions, products, and sales patterns to sup
 ## 📂 Files Included
 | File Name | Description |
 |------------|-------------|
-| `Sales_Analysis_Dashboard.pbix` | Power BI dashboard file |
+| Sales_Analysis_Dashboard.pbix | Power BI dashboard file |
 | `sample-data.xlsx` | Dataset used for analysis |
 | `Dashboard_Screenshot.png` | Screenshot of the final dashboard |
 
