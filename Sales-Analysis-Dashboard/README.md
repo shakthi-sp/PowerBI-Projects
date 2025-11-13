@@ -5,7 +5,7 @@ It helps to identify top-performing regions, products, and sales patterns to sup
 
 ---
 
-##  Files Included
+## Files Included
 | File Name | Description |
 |------------|-------------|
 | `Sales_Analysis_Dashboard.pbix` | Power BI dashboard file |
@@ -14,18 +14,18 @@ It helps to identify top-performing regions, products, and sales patterns to sup
 
 ---
 
-##  Tools & Technologies Used
+## Tools & Technologies Used
 - Power BI  
 - Microsoft Excel  
 
 ---
 
-##  Dashboard Preview
+## Dashboard Preview
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ---
 
-##  Key Insights
+## Key Insights
 - Highest sales achieved in the **Americas region**.  
 - Top-performing product categories identified for better forecasting.
 
