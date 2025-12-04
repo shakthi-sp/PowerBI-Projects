@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard
+# Chocolate Sales Analysis Dashboard
 
 This Power BI dashboard provides insights into sales performance, profit margins, and regional trends.
 It helps to identify top-performing regions, products, and sales patterns to support data-driven decisions.
