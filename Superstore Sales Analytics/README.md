@@ -1,13 +1,13 @@
 # Superstore Sales Analytics
 
-## 📌 Overview
+## Project Overview
 
 This Power BI dashboard provides clear insights into **sales performance**, **profit margins**, and **regional trends**.
 It helps identify top-performing regions, product categories, and sales patterns to support **data-driven business decisions**.
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 | File Name                  | Description                       |
 | -------------------------- | --------------------------------- |
@@ -17,7 +17,7 @@ It helps identify top-performing regions, product categories, and sales patterns
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Power BI**
 * **Microsoft Excel**
@@ -25,27 +25,16 @@ It helps identify top-performing regions, product categories, and sales patterns
 
 ---
 
-## 📸 Dashboard Preview
- `Dashboard_Screenshot.png`
+##  Dashboard Preview
+![Analytics_Dashboard Screenshot](Analytics_Dashboard_Screenshot.png)
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 * The **Americas region** recorded the highest sales.
 * Top-performing product categories highlight strong opportunities for forecasting.
 * Profitability varies significantly across product segments and regions.
 * Visual trends help spot seasonality and customer purchase patterns.
-
----
-
-## 🎯 About This Project
-
-This project demonstrates how **Power BI** can transform raw sales data into **meaningful business insights** through:
-
-* Interactive dashboards
-* Clear visual storytelling
-* Easy-to-understand KPIs and visuals
-
 
 ---
