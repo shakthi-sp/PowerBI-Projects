@@ -1,4 +1,4 @@
-🍫 # Chocolate Sales Analysis Dashboard
+# 🍫 Chocolate Sales Analysis Dashboard
 
 This Power BI dashboard provides a detailed analysis of chocolate sales, shipments, profit margins, product performance, and salesperson insights across multiple regions.
 It helps identify sales trends, top products, regional patterns, and profitability metrics for decision-making.
