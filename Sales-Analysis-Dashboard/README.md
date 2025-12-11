@@ -75,32 +75,22 @@ Additional KPIs:
 - Bins used to group shipment sizes for better readability.
 - LBS Contribution Gauge → 10.2%
 
-- 📌 Helps understand shipping efficiency and distribution patterns.
+📌 Helps understand shipping efficiency and distribution patterns.
 
 ### 4️⃣ Salesperson Performance Table
 
 Includes:
-Name + profile icon
-Sales
-Profit
-Profit %
-LBS %
-Target Achievement (✔️ / ❌)
+- Name + profile with image, Sales, Profit, Profit %, LBS %, Target Achievement (✔️ / ❌)
 
-- 📌 Useful for comparing salesperson performance and identifying top performers.
+📌 Useful for comparing salesperson performance and identifying top performers.
 
 ### 5️⃣Product Performance Table (via Bookmark)
 
 Although this view is available through bookmarks (not directly visible on dashboard), it provides insights into product-wise performance.
 
 Includes:
-Product Name
-Sales
-Profit
-Profit %
-LBS %
-Target Achievement (✔️ / ❌)
-- 📌 Helps identify top-performing and low-performing products for decision-making.
+- Product Name, Sales, Profit, Profit %, LBS %, Target Achievement (✔️ / ❌)
+📌 Helps identify top-performing and low-performing products for decision-making.
 
 ---
 
