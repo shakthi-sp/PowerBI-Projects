@@ -33,8 +33,8 @@ To analyze sales, profit margins, shipments, product performance and sales perso
 ## 5. Dashboard Components and Insights
 
 ### 1️⃣ Monthly Trend Line Chart
-Tracks month-wise Sales, Shipments, Boxes Sold, Cost, and Profit.
-- Uses Field Parameters for dynamic measure switching.
+Visualizes month-wise Sales, Shipments, Boxes Sold, Cost, and Profit.
+- Built using Field Parameters for dynamic measure switching.
 
 ### 2️⃣ KPI Summary
 | Metric| Value|
@@ -48,27 +48,23 @@ Total Boxes Sold|2M|
 - Includes MoM% and a Profit % gauge (60.3%).
 
 ### 3️⃣ Shipment Analysis (Column Chart)
-
-- Column chart showing number of boxes shipped per shipment.
-- Bins used to group shipment sizes for better readability.
-- LBS Contribution Gauge → 10.2%
+- Shows distribution of shipment sizes using bins.
+- Includes LBS Contribution Gauge → 10.2%
 
 📌 Helps understand shipping efficiency and distribution patterns.
 
 ### 4️⃣ Salesperson Performance Table
 
-Includes:
+Displays:
 - Name + profile with image, Sales, Profit, Profit %, LBS %, Target Achievement 
 
-📌 Useful for comparing salesperson performance and identifying top performers.
+📌 Helps identify top-performing and low-performing salespeople.
 
-### 5️⃣Product Performance Table (via Bookmark)
+### 5️⃣Product Performance Table (Bookmark View)
 
-Although this view is available through bookmarks (not directly visible on dashboard), it provides insights into product-wise performance.
-
-Includes:
-- Product Name, Sales, Profit, Profit %, LBS %, Target Achievement 
-📌 Helps identify top-performing and low-performing products for decision-making.
+Shows product-wise:
+- Sales, Profit, Profit %, LBS %, Target Achievement 
+📌 Enables comparison of best and underperforming product for decision-making.
 
 ---
 
@@ -78,8 +74,8 @@ Includes:
 
 - What are the total sales, total boxes sold, and total shipments?
 - How do sales perform month-over-month?
-- What is the overall profit percentage?
-- What is the shipment volume trend?
+- What is the overall profit %?
+- What is the trend in shipment volume?
 - Which regions and products drive revenue and profit?
 
 ### Salesperson Insights
@@ -97,33 +93,31 @@ Includes:
 ## 5. Key Insights & Findings
 
 ### ⭐ Sales & Region Insights
-- Americas, UK, and Australia generate the highest sales.
+- Americas, UK, and Australia lead in sales.
 - Profit percentage remains above 60%, indicating efficient operations.
 
 ### ⭐ Salesperson Insights
-- Top performers like Kelci Walkden and Rafaelia Blaksland consistently meet targets.
-- Profit % ranges between 61%–65%.
+- Top performers consistently meet targets with 61–65% Profit %..
 
 ### ⭐ Product Insights
-- Bars & Bites dominate sales and profit.
+- Bars & Bites category delivers the highest sales and profit.
 
 ---
 
 ## 6. Conclusion
 
-This dashboard provides comprehensive insights into:
+This dashboard delivers clear insights into:
 
-- Sales patterns and trends
+- Sales trends
 - Regional performance
 - Salesperson contributions
-- Product-level performance
+- Product performance
 - Shipment behavior
 - Profit drivers
 
 These insights support decisions related to:
 
-- Product strategy
+- Product Planning
 - Regional targeting
-- Sales planning
-- Cost optimization
-- Performance comparison
+- Sales management 
+- Cost and performance optimization
