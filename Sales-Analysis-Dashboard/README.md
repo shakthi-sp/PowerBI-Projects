@@ -56,12 +56,13 @@ Profit
 - 🔹 Helps in understanding growth, drop, or seasonality across metrics.
 
 ### 2️⃣ KPI Cards – Executive Summary
-| Metric||Value|
-|Total Sales||$34M|
-Total Boxes Sold||2M|
-|Total Shipments||6K|
-|Total Cost||$14M|
-|Total Profit||$21M|
+| Metric| Value|
+| ----------- | ----------- |
+|Total Sales|$34M|
+Total Boxes Sold|2M|
+|Total Shipments|6K|
+|Total Cost|$14M|
+|Total Profit|$21M|
 
 Additional KPIs:
 
