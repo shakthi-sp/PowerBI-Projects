@@ -1,23 +1,12 @@
 # 🍫 Chocolate Sales Analysis Dashboard
 
-This Power BI dashboard provides a detailed analysis of chocolate sales, shipments, profit margins, product performance, and salesperson insights across multiple regions.
-It helps identify sales trends, top products, regional patterns, and profitability metrics for decision-making.
+A Power BI dashboard that provides a comprehensive view of chocolate sales performance across regions, products, and sales teams. It transforms raw data into clear insights for decision-making.
 
 ---
 
 ##  1. Objective
 
-The goal of this dashboard is to convert raw sales data into meaningful business insights, such as:
-
-- Regional performance analysis
-
-- Profitability trends
-
-- Product category insights
-
-- Yearly/monthly sales patterns
-
-- Sales contribution by region and product
+To analyze sales, profit margins, shipments, product performance and sales person performance across multiple regions using interactive visuals that highlight trends, top contributors, and key business metrics.
 
 ---
 
@@ -43,19 +32,11 @@ The goal of this dashboard is to convert raw sales data into meaningful business
 
 ## 5. Dashboard Components and Insights
 
-### 1️⃣ Line Chart – Monthly Trends
+### 1️⃣ Monthly Trend Line Chart
+Tracks month-wise Sales, Shipments, Boxes Sold, Cost, and Profit.
+- Uses Field Parameters for dynamic measure switching.
 
-Displays month-wise trends for the following:
-Sales
-Shipments
-Boxes Sold
-Cost
-Profit
-
-- 🔹 Implemented using Field Parameters to dynamically switch between measures.
-- 🔹 Helps in understanding growth, drop, or seasonality across metrics.
-
-### 2️⃣ KPI Cards – Executive Summary
+### 2️⃣ KPI Summary
 | Metric| Value|
 | ----------- | ----------- |
 |Total Sales|$34M|
@@ -64,10 +45,7 @@ Total Boxes Sold|2M|
 |Total Cost|$14M|
 |Total Profit|$21M|
 
-Additional KPIs:
-
-- MoM% for all metrics
-- Profit % Gauge → 60.3%
+- Includes MoM% and a Profit % gauge (60.3%).
 
 ### 3️⃣ Shipment Analysis (Column Chart)
 
@@ -80,7 +58,7 @@ Additional KPIs:
 ### 4️⃣ Salesperson Performance Table
 
 Includes:
-- Name + profile with image, Sales, Profit, Profit %, LBS %, Target Achievement (✔️ / ❌)
+- Name + profile with image, Sales, Profit, Profit %, LBS %, Target Achievement 
 
 📌 Useful for comparing salesperson performance and identifying top performers.
 
@@ -89,40 +67,30 @@ Includes:
 Although this view is available through bookmarks (not directly visible on dashboard), it provides insights into product-wise performance.
 
 Includes:
-- Product Name, Sales, Profit, Profit %, LBS %, Target Achievement (✔️ / ❌)
+- Product Name, Sales, Profit, Profit %, LBS %, Target Achievement 
 📌 Helps identify top-performing and low-performing products for decision-making.
 
 ---
 
 ## 4. Business Questions Answered
+
 ### Sales Performance
 
 - What are the total sales, total boxes sold, and total shipments?
-- How has sales changed month-over-month?
+- How do sales perform month-over-month?
 - What is the overall profit percentage?
-
-### Trend Analysis
-
-- How do sales vary month-by-month?
 - What is the shipment volume trend?
-
-### Profitability
-
-- What is the monthly profit trend?
-- Which salespeople contribute the most profit?
+- Which regions and products drive revenue and profit?
 
 ### Salesperson Insights
 
 - Who are the top salespeople by sales and profit?
 - What is their profit %, LBS %, and target achievement?
-- Who met their sales target?
 
 ### Product Performance (Bookmarked Page)
 
 - Which products generate the highest revenue and profit?
 - Which products underperform?
-- Which product categories are the most profitable?
-- What are the sales trends for each product group?
 
 ---
 
@@ -138,8 +106,6 @@ Includes:
 
 ### ⭐ Product Insights
 - Bars & Bites dominate sales and profit.
-- A few SKUs underperform and may need menu/stock optimization.
-- High-value products significantly improve overall profit%
 
 ---
 
@@ -147,7 +113,7 @@ Includes:
 
 This dashboard provides comprehensive insights into:
 
-- Sales patterns
+- Sales patterns and trends
 - Regional performance
 - Salesperson contributions
 - Product-level performance
@@ -160,4 +126,4 @@ These insights support decisions related to:
 - Regional targeting
 - Sales planning
 - Cost optimization
-- Inventory and logistics
+- Performance comparison
